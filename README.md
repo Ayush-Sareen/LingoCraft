@@ -1,6 +1,6 @@
 # 🌍 LingoCraft
 
-LangTools is a beginner-friendly React app that combines two powerful utilities:
+LingoCraft is a beginner-friendly React app that combines two powerful utilities:
 
 - A **Text Translator** using the [MyMemory API](https://mymemory.translated.net/).
 - A **Random String Generator** using React hooks.
@@ -34,8 +34,8 @@ This is a fun project to explore React fundamentals, client-side routing, API ca
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/langtools.git
-cd langtools
+git clone https://github.com/Ayush-Sareen/LingoCraft.git
+cd LingoCraft
 ```
 2. Install dependencies
 ```bash
